@@ -1,7 +1,15 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=baettery's%20github&fontSize=60)
 
-<img src="https://img.shields.io/badge/Python-navy?style=flat&logo=Python&logoColor=white"/>
+<div align = 'center'>
+  🛠️Tools🛠️
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-#276DC3?style=flat&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-#E97627?style=flat&logo=Tableau&logoColor=white"/>
+
+</div>
 
 
 
