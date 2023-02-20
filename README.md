@@ -1,5 +1,11 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=baettery's%20github&fontSize=60)
+
+<img src="https://img.shields.io/badge/Python-navy?style=flat&logo=Python&logoColor=white"/>
+
+
+
+
 <!--
 **baettery/baettery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
